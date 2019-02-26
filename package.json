@@ -1,0 +1,28 @@
+{
+  "name": "kanye.rest-cli",
+  "version": "1.0.0",
+  "description": "Get random Kanye West quotes using https://kanye.rest",
+  "repository": "ajzbc/kanye.rest-cli",
+  "author": {
+    "name": "Andrew Jazbec",
+    "email": "contact@ajzbc.com",
+    "url": "https://ajzbc.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "bin": {
+    "kanye.rest": "./cli.js"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "cli-app",
+    "cli",
+    "quote",
+    "kanye-west"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
