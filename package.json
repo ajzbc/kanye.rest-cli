@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Get random Kanye West quotes using https://kanye.rest",
   "repository": "ajzbc/kanye.rest-cli",
+  "homepage": "https://kanye.rest",
   "author": {
     "name": "Andrew Jazbec",
     "email": "contact@ajzbc.com",
