@@ -7,6 +7,10 @@
 ```
 $ npm install -g knaye.rest-cli
 ```
+or
+```
+$ npm install -g kanye.rest-cli --save-dev
+```
 
 ## License
 
