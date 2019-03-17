@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install -g knaye.rest-cli
+$ npm install -g kanye.rest-cli
 ```
 or
 ```
