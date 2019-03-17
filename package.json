@@ -1,6 +1,6 @@
 {
   "name": "kanye.rest-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get random Kanye West quotes using https://kanye.rest",
   "repository": "ajzbc/kanye.rest-cli",
   "homepage": "https://kanye.rest",
